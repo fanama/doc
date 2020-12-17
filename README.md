@@ -2,6 +2,7 @@
 
 list of documents
 
+[micro](https://github.com/zyedidia/micro#installation)
 
 [openVpn](https://torguard.net/knowledgebase.php?action=displayarticle&id=53)
 
