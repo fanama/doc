@@ -10,4 +10,6 @@ list of documents
 
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
 
+[nginx](https://snapshooter.io/blog/how-to-run-nodejs-server-with-nginx)
+
 [minecraft](https://www.vultr.com/docs/install-a-minecraft-server-on-debian-10)
