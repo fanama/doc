@@ -1,6 +1,8 @@
 # docs
 
-list of documents
+## list of documents
+
+[new user](https://linuxhandbook.com/create-sudo-user/)
 
 [micro](https://github.com/zyedidia/micro#installation)
 
