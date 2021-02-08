@@ -1,4 +1,4 @@
-#InstallGO
+# InstallGO
 
 ```bash
 export GOROOT=/usr/lib/go
