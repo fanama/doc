@@ -10,6 +10,8 @@
 
 [openVpn](https://torguard.net/knowledgebase.php?action=displayarticle&id=53)
 
+[linux-firewall](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-10)
+
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
 
 [go](./go.md)
@@ -17,3 +19,5 @@
 [nginx](https://snapshooter.io/blog/how-to-run-nodejs-server-with-nginx)
 
 [minecraft](https://www.vultr.com/docs/install-a-minecraft-server-on-debian-10)
+
+
