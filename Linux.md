@@ -6,6 +6,10 @@
 
     - > sudo lsof -i -P -n | grep LISTEN
 
+- ouvrir un port : 
+
+    - > sudo ufw allow 2222
+
 ## SQL
 
 - connexion : 
