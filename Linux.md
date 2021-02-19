@@ -15,3 +15,9 @@
 - connexion : 
 
     - > mysql -h 10.8.3.34 -P 3302 -u root -p
+
+## Deployement
+
+- pm2
+
+    - > pm2 start app.js --name my-api # Name process
