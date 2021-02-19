@@ -20,4 +20,4 @@
 
 [minecraft](https://www.vultr.com/docs/install-a-minecraft-server-on-debian-10)
 
-
+[Windows gcc](https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j)
