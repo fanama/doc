@@ -12,6 +12,8 @@
 
 [linux-firewall](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-10)
 
+[postgres](https://wiki.debian.org/PostgreSql)
+
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
 
 [go](./go.md)
