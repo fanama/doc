@@ -9,3 +9,4 @@
 - > pm2 save
 5. (optional) check your dump
 - > cat /home/user/.pm2/dump.pm2
+6. At any point in the future, to update the list of process, just run pm2 save again.
