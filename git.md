@@ -2,4 +2,4 @@
 
 1. Clone as specific branch
 
-- > git clone -b <branchname> <remote-repo-url>
+- > git clone -b branchname remote-repo-url
