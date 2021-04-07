@@ -14,6 +14,8 @@
 
 [postgres](https://wiki.debian.org/PostgreSql)
 
+[git](./git.md)
+
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
 
 [go](./go.md)
