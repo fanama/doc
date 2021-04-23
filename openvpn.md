@@ -1,5 +1,15 @@
 # Open-vpn
 
+
+## server
+
+run : 
+
+- > wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+
+
+## client
+
 1. prerequise
 
 - openvpn
