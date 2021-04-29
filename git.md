@@ -7,3 +7,7 @@
 2. Remove origin
 
 - >  git remote rm origin
+
+3. ignore a commited file
+
+- > git rm --cached /path/to/file
