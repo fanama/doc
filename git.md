@@ -14,4 +14,4 @@
 
 4. remove local branch
 
-- > git branch -d <local-branch>
+- > git branch -d local-branch
