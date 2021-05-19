@@ -15,3 +15,7 @@
 4. remove local branch
 
 - > git branch -d local-branch
+
+5. change branch
+
+- > git checkout branch
