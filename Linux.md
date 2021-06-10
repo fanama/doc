@@ -1,5 +1,11 @@
 # Commandes linux
 
+## file
+
+- lire un fichier
+
+    - > tail -60 filepath
+
 ## Ports
 
 - lister les Ports : 
