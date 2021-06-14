@@ -12,10 +12,14 @@
 
 - > git rm --cached /path/to/file
 
-4. remove local branch
+4. merge
+
+- > git merge branch
+
+5. remove local branch
 
 - > git branch -d local-branch
 
-5. change branch
+6. change branch
 
 - > git checkout branch
