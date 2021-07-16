@@ -17,3 +17,7 @@ run :
 
 2. start a config
 > sudo openvpn --config <clef>.ovpn
+
+##  Bug Old version
+
+https://github.com/theinvisible/openfortigui/issues/114#issuecomment-623911103
