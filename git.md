@@ -23,3 +23,7 @@
 6. change branch
 
 - > git checkout branch
+
+7. Automate password
+
+- > git config --global credential.helper store
