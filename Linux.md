@@ -1,5 +1,13 @@
 # Commandes linux
 
+## Personalisation
+
+- nom terminal
+
+copy the following command to `~./bashrc`
+
+    - > export PS1='\u> '
+
 ## file
 
 - lire un fichier
