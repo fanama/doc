@@ -6,7 +6,7 @@
 
 copy the following command to `~./bashrc`
 
-    - > export PS1='\u> '
+- > export PS1='\u> '
 
 ## file
 
