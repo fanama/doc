@@ -14,6 +14,8 @@
 
 [postgres](https://wiki.debian.org/PostgreSql)
 
+[ssh](https://www.linuxtricks.fr/wiki/ssh-installer-et-configurer-un-serveur-ssh)
+
 [git](./git.md)
 
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
