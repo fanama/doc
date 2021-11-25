@@ -14,6 +14,8 @@
 
 [go](./go.md)
 
+[kotlin](https://medium.com/innovation-development/une-api-rest-kotlin-d%C3%A9velopp%C3%A9e-en-5-minutes-63a189b80809)
+
 [python](https://linuxize.com/post/how-to-install-pip-on-debian-10/)
 
 ### logiciels
