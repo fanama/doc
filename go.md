@@ -13,3 +13,7 @@ https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-u
 ## Socket GO
 
 https://tutorialedge.net/golang/golang-websockets-tutorial/
+
+## Graphical interface
+
+https://github.com/chonlatee/spaceship
