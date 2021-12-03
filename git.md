@@ -8,6 +8,10 @@
 
 - >  git remote rm origin
 
+3. Change origin
+
+- > git remote set-url origin git://new.location
+
 3. ignore a commited file
 
 - > git rm --cached /path/to/file
