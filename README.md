@@ -4,6 +4,8 @@
 
 ### linux
 
+[kali linux](https://www.kali.org/docs/wsl/win-kex/)
+
 [new user](https://linuxhandbook.com/create-sudo-user/)
 
 [linux-firewall](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-10)
