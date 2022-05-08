@@ -20,6 +20,8 @@
 
 [python](https://linuxize.com/post/how-to-install-pip-on-debian-10/)
 
+[javascript](https://effectivetypescript.com/2020/05/26/iterate-objects/)
+
 ### logiciels
 
 [micro](https://github.com/zyedidia/micro#installation)
@@ -37,6 +39,8 @@
 [Windows gcc](https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j)
 
 ### réseau
+
+[ci/cd](https://dev.to/sumansarkar/gitlab-cicd-nodejs-pm2-4llh)
 
 [nginx](https://snapshooter.io/blog/how-to-run-nodejs-server-with-nginx)
 
