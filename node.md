@@ -2,9 +2,18 @@
 
 0. install node
     - nodejs :
-  - > sudo apt-get install curl software-properties-common
-  - > curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
-  - > sudo apt-get install build-essential nodejs
+- option 1
+```sh
+  sudo apt-get install curl software-properties-common
+  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+   sudo apt-get install build-essential nodejs
+```
+option 2
+```sh
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+source ~/.bashrc
+```
+
 1. delete node
     - > sudo apt-get remove nodejs
 
