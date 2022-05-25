@@ -2,6 +2,10 @@
 
 ## list of documents
 
+### windows
+
+[windows](./Windows.md)
+
 ### linux
 
 [kali linux](https://www.kali.org/docs/wsl/win-kex/)
