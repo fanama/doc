@@ -23,6 +23,9 @@ copy the following command to `~./bashrc`
 - ouvrir un port : 
 
     - > sudo ufw allow 2222
+## Alias
+
+    - > alias nom_de_lalias='commande'
 
 ## SQL
 
