@@ -52,4 +52,6 @@
 
 [ssh](https://www.linuxtricks.fr/wiki/ssh-installer-et-configurer-un-serveur-ssh)
 
+[sync git](https://dev.to/brunorobert/github-and-gitlab-sync-44mn)
+
 
