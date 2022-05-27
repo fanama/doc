@@ -42,6 +42,10 @@
 
 [Windows gcc](https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j)
 
+### react hook
+
+[form](https://react-hook-form.com/get-started)
+
 ### réseau
 
 [ci/cd](https://dev.to/sumansarkar/gitlab-cicd-nodejs-pm2-4llh)
