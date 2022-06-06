@@ -17,6 +17,10 @@ source ~/.bashrc
 1. delete node
     - > sudo apt-get remove nodejs
 
+2. bug
+
+    - > [ssl errror](https://www.itbaoku.cn/snippets/785047.html)
+
 ## next js
 
 [example](https://github.com/fireship-io/nextjs-basics/blob/main/pages/cars/%5Bid%5D.js)
