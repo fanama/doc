@@ -6,6 +6,10 @@
 sudo snap install go --classic
 ```
 
+## go husky
+
+https://www.scien.cx/2022/03/07/git-hooks-for-your-golang-project/
+
 ## Unit testing in go
 
 https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package
