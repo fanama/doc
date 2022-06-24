@@ -14,6 +14,7 @@
 
 [linux-firewall](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-10)
 
+
 ### languages
 
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
@@ -35,6 +36,8 @@
 [postgres](https://wiki.debian.org/PostgreSql)
 
 [anime](https://github.com/pystardust/ani-cli)
+
+[terminal](https://github.com/agarrharr/awesome-cli-apps#web-development)
 
 [git](./git.md)
 
