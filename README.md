@@ -19,6 +19,8 @@
 
 [npm](https://tecadmin.net/install-latest-nodejs-npm-on-debian/)
 
+[deno-vim](https://github.com/fannheyward/coc-deno)
+
 [go](./go.md)
 
 [kotlin](https://medium.com/innovation-development/une-api-rest-kotlin-d%C3%A9velopp%C3%A9e-en-5-minutes-63a189b80809)
