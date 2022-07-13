@@ -14,6 +14,10 @@ copy the following command to `~./bashrc`
 
     - > tail -60 filepath
 
+- download
+
+    - > curl -O url
+ 
 ## Ports
 
 - lister les Ports : 
