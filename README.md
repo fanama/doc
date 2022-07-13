@@ -8,6 +8,8 @@
 
 ### linux
 
+[linux](./Linux.md)
+
 [kali linux](https://www.kali.org/docs/wsl/win-kex/)
 
 [new user](https://linuxhandbook.com/create-sudo-user/)
