@@ -43,6 +43,8 @@
 
 [terminal](https://github.com/agarrharr/awesome-cli-apps#web-development)
 
+[markdown to pdf](https://www.npmjs.com/package/md-to-pdf)
+
 [git](./git.md)
 
 [minecraft](https://www.vultr.com/docs/install-a-minecraft-server-on-debian-10)
