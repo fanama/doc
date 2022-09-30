@@ -2,6 +2,7 @@
 
 1. start the service
 - > pm2 start index.js --name
+- > pm2 start npm --name "name" -- start
 2. init the startup
 - > pm2 startup
 3. copy the env path
