@@ -33,3 +33,7 @@ $ chmod +x ~/.docker/cli-plugins/docker-compose
 $ sudo usermod -aG docker $USER
 $ newgrp docker
 ```
+
+## doc
+
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
