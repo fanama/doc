@@ -31,3 +31,7 @@
 7. Automate password
 
 - > git config --global credential.helper store
+
+8. Find deleted branch
+
+ - > git reflog show remotes/origin/dev
