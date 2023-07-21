@@ -24,7 +24,7 @@
 
 - > git branch -d local-branch
 
-- > git branch | grep "<pattern>" | xargs git branch -D
+- > git branch | grep " < pattern > " | xargs git branch -D
 
 6. change branch
 
