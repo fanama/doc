@@ -10,6 +10,8 @@
 
 [linux](./Linux.md)
 
+[tmux/](https://linuxhint.com/detach-session-tmux/)
+
 [kali linux](https://www.kali.org/docs/wsl/win-kex/)
 
 [new user](https://linuxhandbook.com/create-sudo-user/)
