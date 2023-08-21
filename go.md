@@ -25,3 +25,7 @@ https://github.com/chonlatee/spaceship
 ## Utils function
 
 https://github.com/waclawthedev/go-sugaring/blob/main/sugar.go
+
+## html templates
+
+https://gowebexamples.com/templates/
