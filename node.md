@@ -26,6 +26,7 @@ source ~/.bashrc
 3. update Node packages
 
     - > npx npm-check-updates -u
+
     - > npm install 
 
 ## next js
