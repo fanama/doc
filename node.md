@@ -17,9 +17,16 @@ source ~/.bashrc
 1. delete node
     - > sudo apt-get remove nodejs
 
+
+
 2. bug
 
     - > [ssl errror](https://www.itbaoku.cn/snippets/785047.html)
+
+3. update Node packages
+
+    - > npx npm-check-updates -u
+    - > npm install 
 
 ## next js
 
