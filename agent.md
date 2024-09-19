@@ -33,14 +33,6 @@ Les agents LLM sont composés de 4 éléments clés :
 - Les fonctions doivent être exécutées les unes après les autres.
 - Le résultat final est enfin retourné à l’utilisateur.
 
-### Résultats des premiers tests
-
-Lors des premiers tests effectués, les résultats étaient concluants. Nous avons pu tester sur le use case de synthèse. Néanmoins, l’utilisation de l’agent reste assez compliquée. Il est nécessaire de passer en argument des tools en plus du prompt de base. Il serait plus intéressant si les tools étaient détectés automatiquement par le LLM lors de la génération du plan.
-
-### Résultat du second test
-
-Le second test était tout aussi concluant que le premier. Nous avons choisi de retirer les functions tools_request afin de laisser le LLM les sélectionner automatiquement à partir du prompt du client uniquement. Cela nécessite de préparer des functions-tools plus précises et des prompts tout aussi précis. L’agent LLM générera d’abord le plan, comme avant, mais sera capable de lier les différentes actions avec les fonctions associées puis exécutera le plan.
-
 ## Implementation dans nos projets
 
 Pour utiliser les agents LLM dans nos projets, il sera nécessaire d’implémenter toute cette logique d’agent. Pour cela, je propose d’étendre l’entité projet en entité agent. Le projet ne se contentera alors plus d’appeler un unique LLM mais pourra appeler plusieurs LLM différents et même des outils externes.
