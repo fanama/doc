@@ -21,7 +21,7 @@ Le sujet peut être vectorisé selon les paramètres suvants :
 
 - nature : c'est la nature du sujet. On prut le decliner en 3 éléments [objet, animal, human]
 
- Pour l'exemple vu plus haut on aurait chat=(2) 
+ Pour l'exemple vu plus haut on aurait $\vec{chat}=(2)$ 
 
  ### Verbe
 
@@ -31,7 +31,7 @@ Le verbe peut être vectorisé selon les paramètres suvants :
 - temps : c'est le temps utilisé. Voici les éléments [passé,présent,future]
 - nature : c'est le nature du verbe utilisé. Voici les éléments [action,etat]
 
- Pour l'exemple vu plus haut on aurait mange=(3,2,1) 
+ Pour l'exemple vu plus haut on aurait $\vec{mange}=(3,2,1)$ 
 
   ### Complément
 
@@ -40,4 +40,4 @@ Le Complément peut être vectorisé selon les paramètres suvants :
 - intensité : c'est l'intensité' Complément utilisé. Voici les éléments [-00;+00]
 - nature : c'est le nature du Complément utilisé. Voici les éléments [objet,etat]
 
- Pour l'exemple vu plus haut on aurait les croquettes=(100,1) 
+ Pour l'exemple vu plus haut on aurait les $\vec{croquettes}=(100,1)$ 
