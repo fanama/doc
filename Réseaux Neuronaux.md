@@ -30,4 +30,5 @@ Etre élevée est relatif . On passe donc la valur de $y$ dans une fonction d'ac
 
 $f(y)=\frac{1}{1+e^{-y}}$
 
-Cette fonction est définie entre $\forall x \in [-\infty;;+\infty;] , y \in [0;1]$ 
+Cette fonction est définie entre $\forall x \in [-\infty;+\infty;] , y \in [0;1]$ 
+Si la valeur de $y$ est proche de 1 alors le perceptron est active.
