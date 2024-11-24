@@ -38,6 +38,7 @@
   - The guild doesn't know nor trust you
   ## Reward
   - you become a member of the guild
+- The attack  
 
 ## en cours
 
