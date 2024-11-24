@@ -1,6 +1,7 @@
 ## quêtes
 - Le départ  
 - La route  
+- Le village  
 
 ## en cours
 
