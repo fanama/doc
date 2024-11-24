@@ -29,7 +29,15 @@
   - people are afraid
   ## Reward
   - Knowledge about the guild
-- La guilde  
+- La guilde Pink Blossom  
+  ## Location
+  Guild Pink blossom
+  ## Personas
+  Guild Master : José
+  ## Obstacle
+  - The guild doesn't know nor trust you
+  ## Reward
+  - you become a member of the guild
 
 ## en cours
 
