@@ -1,5 +1,13 @@
 ## quêtes
 - Le départ  
+  ## Objectif
+  It's time for you to leave the village
+  ## Conflict
+  you're friends don't want you to leave the village because you promise to stay here forever
+  ## Reward
+  - the call of adventure
+  - weapon
+  - gold
 - La route  
 - Le village  
 - La guilde  
