@@ -69,3 +69,5 @@
   PV : 22
   CA :  17
   ATT : 4d4 + 7
+
+## Characters
