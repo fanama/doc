@@ -4,3 +4,4 @@
 
 ## personnages
 - Faible  
+- Moyen  
