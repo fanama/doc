@@ -9,6 +9,14 @@
   - weapon
   - gold
 - La route  
+  ## Location
+  Road
+  ## Personas
+  - Merchant
+    ## Obstacle
+  - Bandits 
+  ## Reward
+  Location of the village
 - Le village  
 - La guilde  
 
