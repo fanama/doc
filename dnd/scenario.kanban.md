@@ -71,3 +71,4 @@
   ATT : 4d4 + 7
 
 ## Characters
+- Kronk  
