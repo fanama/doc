@@ -19,7 +19,16 @@
   - Location of the village
   - some golds
   - opportunities to loot the bandits
-- Le village  
+- Le village Peperoni  
+  ## Location
+  Village Peperoni
+  ## Personas
+  Villagers
+  ## Obstacle
+  - You don't know the village
+  - people are afraid
+  ## Reward
+  - Knowledge about the guild
 - La guilde  
 
 ## en cours
