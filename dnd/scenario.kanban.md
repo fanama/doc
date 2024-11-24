@@ -33,7 +33,7 @@
 
 ## en cours
 
-## personnages
+## personnages non joueurs
 - Faible  
   PV : 10
   CA :  8
