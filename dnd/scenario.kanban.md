@@ -1,7 +1,7 @@
 ## quêtes
 - Le départ  
   ## Objectif
-  It's time for you to leave the village
+  It's time for you to leave the village The llama
   ## Conflict
   you're friends don't want you to leave the village because you promise to stay here forever
   ## Reward
