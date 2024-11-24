@@ -5,3 +5,4 @@
 ## personnages
 - Faible  
 - Moyen  
+- Fort  
