@@ -12,9 +12,9 @@
   ## Location
   Road
   ## Personas
-  - Merchant
-    ## Obstacle
-  - Bandits 
+  Merchant
+  ## Obstacle
+  Bandits 
   ## Reward
   Location of the village
 - Le village  
