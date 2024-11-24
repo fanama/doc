@@ -2,6 +2,7 @@
 - Le départ  
 - La route  
 - Le village  
+- La guilde  
 
 ## en cours
 
