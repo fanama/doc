@@ -3,3 +3,4 @@
 ## en cours
 
 ## personnages
+- Faible  
