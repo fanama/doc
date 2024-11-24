@@ -72,3 +72,17 @@
 
 ## Characters
 - Kronk  
+  ## Kronk
+  
+  PV: 13
+  
+  Constit : -2 +1 = -1
+  Strength : -2 +1 = -1
+  Dexterity : +2
+  
+  Will : +2+1
+  Intelligence : +2-1
+  Charisma : +2
+  
+  Control Points : 
+  
