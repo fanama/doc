@@ -1,13 +1,4 @@
 ## quêtes
-- Le départ  
-  ## Objectif
-  It's time for you to leave the village The llama
-  ## Conflict
-  you're friends don't want you to leave the village because you promise to stay here forever
-  ## Reward
-  - the call of adventure
-  - weapon
-  - gold
 - La route  
   ## Location
   Road
@@ -55,6 +46,15 @@
   - weekly pay (one mission per week)
 
 ## en cours
+- Le départ  
+  ## Objectif
+  It's time for you to leave the village The llama
+  ## Conflict
+  you're friends don't want you to leave the village because you promise to stay here forever
+  ## Reward
+  - the call of adventure
+  - weapon
+  - gold
 
 ## personnages non joueurs
 - Faible  
