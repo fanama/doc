@@ -38,6 +38,8 @@
   - The guild doesn't know nor trust you
   ## Reward
   - you become a member of the guild
+  - you get a guild coat
+  - weekly pay (one mission per week)
 - The attack  
   ## Location
   Village Peperoni
