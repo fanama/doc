@@ -39,6 +39,16 @@
   ## Reward
   - you become a member of the guild
 - The attack  
+  ## Location
+  Village Peperoni
+  ## Personas
+  - Guild Master : José
+  - Lightning
+  - thunder
+  ## Obstacle
+  - enemy guild members : Dark blossom
+  ## Reward
+  - you become a member of the guild
 
 ## en cours
 
