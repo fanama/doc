@@ -16,7 +16,9 @@
   ## Obstacle
   Bandits 
   ## Reward
-  Location of the village
+  - Location of the village
+  - some golds
+  - opportunities to loot the bandits
 - Le village  
 - La guilde  
 
