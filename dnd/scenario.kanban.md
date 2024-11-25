@@ -88,6 +88,7 @@
   - Sauver le malade pour avoir l'antidote
   - un membre de votre équipe a été emposonée
   - Pour avoir l'antidote  il faut aider  le malade pour avoir l'antidote
+- Hopitale 1  
 
 ## en cours
 - Le départ  
