@@ -49,16 +49,19 @@
 - Bibliothèque 1  
   ## Location
   Village Peperoni
+  
   ## Personas
-  - Guild Master : José
-  - Lightning
-  - thunder
+  - Libraire
+  - Visiteurs
+  
+  ## Objectif
+  Récupérer cupérer le livre monde perdu en ville
+  
   ## Obstacle
-  - enemy guild members : Dark blossom
+  - Le livre à été volé des mages
+  - 
   ## Reward
-  - you become a member of the guild
-  - you get a guild coat
-  - weekly pay (one mission per week)
+  - Indice sur le trésor caché
 
 ## en cours
 - Le départ  
