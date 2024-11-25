@@ -81,6 +81,7 @@
   ## Récompense
   - Nouvelles armes
   - Nouvelles technique
+- Taverne 1  
 
 ## en cours
 - Le départ  
