@@ -58,6 +58,8 @@
   - you get a guild coat
   - weekly pay (one mission per week)
 
+## ville
+
 ## en cours
 - Le départ  
   ## Objectif
@@ -99,5 +101,3 @@
   
   Control Points : 
   
-
-## ville
