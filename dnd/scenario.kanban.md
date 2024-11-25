@@ -69,6 +69,7 @@
   - trouver la librairie
   ## Récompense 
   Quête du livre monde
+- Arêne 1  
 
 ## en cours
 - Le départ  
