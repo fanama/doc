@@ -70,6 +70,17 @@
   ## Récompense 
   Quête du livre monde
 - Arêne 1  
+  ## Persona
+  - Jeune soldat
+  ## objectif 
+  - vaincre les brutes de l'arêne
+  ## obstacle
+  - perte de temps
+  - groupe d'ennemi
+  
+  ## Récompense
+  - Nouvelles armes
+  - Nouvelles technique
 
 ## en cours
 - Le départ  
