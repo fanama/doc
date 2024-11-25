@@ -82,6 +82,12 @@
   - Nouvelles armes
   - Nouvelles technique
 - Taverne 1  
+  ## Persona
+  - Ami du malade
+  ## Obstacle
+  - Sauver le malade pour avoir l'antidote
+  - un membre de votre équipe a été emposonée
+  - Pour avoir l'antidote  il faut aider  le malade pour avoir l'antidote
 
 ## en cours
 - Le départ  
