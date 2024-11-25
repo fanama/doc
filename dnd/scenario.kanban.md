@@ -44,6 +44,7 @@
   - you become a member of the guild
   - you get a guild coat
   - weekly pay (one mission per week)
+- Bibliothèque 1  
 
 ## en cours
 - Le départ  
