@@ -62,7 +62,13 @@
   - 
   ## Reward
   - Indice sur le trésor caché
-- Centre ville  
+- Centre ville 1  
+  ## Personas
+  Villageois
+  ## Objectif
+  - trouver la librairie
+  ## Récompense 
+  Quête du livre monde
 
 ## en cours
 - Le départ  
