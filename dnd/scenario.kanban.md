@@ -89,6 +89,13 @@
   - un membre de votre équipe a été emposonée
   - Pour avoir l'antidote  il faut aider  le malade pour avoir l'antidote
 - Hopitale 1  
+  ## Persona
+  - Malade
+  ## obstacle
+  - le malade souhaite sortir et voir un dernier coucher de soleil
+  ## conséquences
+  - connaissances sur l'origine de la maladie
+  - informations sur le livre monde
 
 ## en cours
 - Le départ  
