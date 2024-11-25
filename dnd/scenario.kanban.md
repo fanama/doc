@@ -62,6 +62,7 @@
   - 
   ## Reward
   - Indice sur le trésor caché
+- Centre ville  
 
 ## en cours
 - Le départ  
