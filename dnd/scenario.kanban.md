@@ -44,6 +44,8 @@
   - you become a member of the guild
   - you get a guild coat
   - weekly pay (one mission per week)
+
+## ville
 - Bibliothèque 1  
   ## Location
   Village Peperoni
@@ -57,8 +59,6 @@
   - you become a member of the guild
   - you get a guild coat
   - weekly pay (one mission per week)
-
-## ville
 
 ## en cours
 - Le départ  
