@@ -47,6 +47,19 @@
 
 ## Forêt
 - Red Hood  
+  ## Location
+  Forêt
+  ## Personas
+  - Marchant
+  ## Obstacle
+  ## objectif
+  - Livrer la lettre au chef du village
+  ## Obstacle
+  - Horde de loups garou (une experience raté qui vient de la ville) 
+  ## Reward
+  - Location of the village Animalus
+  - some golds
+  - une potion de transformation en un animal au hazard (ne pas dire que c'est définitif)
 
 ## ville
 - Bibliothèque 1  
