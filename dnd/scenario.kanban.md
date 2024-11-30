@@ -78,7 +78,6 @@
   
   ## Reward
   - Indice sur l'emplacement du trésor caché il est sur une ile céleste
-  - 
 - Centre ville 1  
   ## Personas
   Villageois
