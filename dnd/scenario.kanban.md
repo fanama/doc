@@ -45,6 +45,8 @@
   - you get a guild coat
   - weekly pay (one mission per week)
 
+## Forêt
+
 ## ville
 - Bibliothèque 1  
   ## Location
@@ -138,5 +140,3 @@
   
   Control Points : 
   
-
-## Forêt
