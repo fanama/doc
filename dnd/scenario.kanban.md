@@ -84,7 +84,7 @@
   ## Objectif
   - trouver la librairie
   ## Récompense 
-  Quête du livre monde
+  Quête bibliothèque livre monde
 - Arêne 1  
   ## Persona
   - Jeune soldat
