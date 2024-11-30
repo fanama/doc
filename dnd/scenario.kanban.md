@@ -46,6 +46,7 @@
   - weekly pay (one mission per week)
 
 ## Forêt
+- Red Hood  
 
 ## ville
 - Bibliothèque 1  
