@@ -92,7 +92,7 @@
   - vaincre les brutes de l'arêne
   ## obstacle
   - perte de temps
-  - groupe d'ennemi
+  - groupe d'ennemi animalus
   
   ## Récompense
   - Nouvelles armes
