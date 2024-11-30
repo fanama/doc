@@ -74,10 +74,11 @@
   Récupérer cupérer le livre monde perdu en ville
   
   ## Obstacle
-  - Le livre à été volé des mages
-  - 
+  - Le livre à été volé par des mages
+  
   ## Reward
-  - Indice sur le trésor caché
+  - Indice sur l'emplacement du trésor caché il est sur une ile céleste
+  - 
 - Centre ville 1  
   ## Personas
   Villageois
