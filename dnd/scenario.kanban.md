@@ -24,7 +24,7 @@
   ## Location
   Guild Pink blossom
   ## Personas
-  Guild Master : José
+  Guild Master : Lovely José
   ## Obstacle
   - The guild doesn't know nor trust you
   ## Reward
