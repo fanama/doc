@@ -55,7 +55,7 @@
   ## objectif
   - Livrer la lettre au chef du village
   ## Obstacle
-  - Horde de loups garou (une experience raté qui vient de la ville) 
+  - Horde de créatures garou (une experience raté qui vient de la ville) 
   ## Reward
   - Location of the village Animalus
   - some golds
