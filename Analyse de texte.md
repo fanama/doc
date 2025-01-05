@@ -35,3 +35,7 @@ Le graphe de définition commence par un seul mot. Dès qu'un mot est défini, o
 ### Le graphe de génération
 
 Le graphe de génération est plus simple à mettre en place. Il s'agira de récupérer un corpus et de regarder la succession de mots. Pour chaque nouveau mot rencontré, on ajoute à la clé associée le mot qui suit.
+
+## liens
+
+**réseaux**  https://realpython.com/python-ai-neural-network/
