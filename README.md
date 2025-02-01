@@ -70,3 +70,7 @@
 [sync git](https://dev.to/brunorobert/github-and-gitlab-sync-44mn)
 
 [gitlab-ssh](https://medium.com/@hfally/a-gitlab-ci-config-to-deploy-to-your-server-via-ssh-43bf3cf93775)
+
+### theorie
+
+[concept graph](https://boardmix.com/knowledge/mind-map-vs-concept-map/)
