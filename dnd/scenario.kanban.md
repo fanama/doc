@@ -60,6 +60,7 @@
   - Location of the village Animalus
   - some golds
   - une potion de transformation en un animal au hazard (ne pas dire que c'est définitif)
+- bandits  
 
 ## ville
 - Taverne 1  
