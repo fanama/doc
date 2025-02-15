@@ -62,6 +62,13 @@
   - une potion de transformation en un animal au hazard (ne pas dire que c'est définitif)
 
 ## ville
+- Taverne 1  
+  ## Persona
+  - Ami du malade
+  ## Obstacle
+  - Sauver le malade pour avoir l'antidote
+  - un membre de votre équipe a été emposonée
+  - Pour avoir l'antidote  il faut aider  le malade pour avoir l'antidote
 - Bibliothèque 1  
   ## Location
   Village Peperoni
@@ -97,13 +104,6 @@
   ## Récompense
   - Nouvelles armes
   - Nouvelles technique
-- Taverne 1  
-  ## Persona
-  - Ami du malade
-  ## Obstacle
-  - Sauver le malade pour avoir l'antidote
-  - un membre de votre équipe a été emposonée
-  - Pour avoir l'antidote  il faut aider  le malade pour avoir l'antidote
 - Hopitale 1  
   ## Persona
   - Malade
