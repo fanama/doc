@@ -61,6 +61,13 @@
   - some golds
   - une potion de transformation en un animal au hazard (ne pas dire que c'est définitif)
 - bandits  
+  ## personas
+  
+  3 bandits try to steal your stuff
+  
+  ## reward
+  - some golds
+  - some llots
 
 ## ville
 - Taverne 1  
