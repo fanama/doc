@@ -8,7 +8,7 @@
   - the call of adventure
   - weapon
   - gold
-- La route  
+- La route : le marchand  
   ## Location
   Road
   ## Personas
