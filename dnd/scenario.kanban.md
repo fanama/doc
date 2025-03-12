@@ -167,7 +167,7 @@
   
   **Déroulement :**
   
-  -   Les joueurs reçoivent un message secret d'un allié captif leur demandant de l'aide.
+  -   Les joueurs apprenne qu'un téléporteur se trouve dans la grotte, il est tenu captif
   -   Ils doivent infiltrer une zone sécurisée du labyrinthe pour libérer l'allié.
   -   Des énigmes et des défis doivent être résolus pour désactiver les pièges et les verrous.
   
