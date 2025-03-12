@@ -138,9 +138,12 @@
   
   **Obstacle :**
   
-  -   Échapper aux fanatiques pendant la nuit
-  -   Trouver une sortie dans le labyrinthe souterrain
+  -   Échapper aux fanatiques
   -   Éviter les patrouilles et les pièges
+  
+  **récompense**
+  
+  - temps de répis
 - Tunnels de l'oubli  
   **Persona :**
   
