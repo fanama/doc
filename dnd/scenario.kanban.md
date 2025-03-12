@@ -159,6 +159,21 @@
   
   -   Un plan détaillé des tunnels sécurisés
 - Le sauvetage desespéré  
+  ### Le Sauvetage Désespéré
+  
+  **Objectif :**
+  
+  -   Les joueurs doivent sauver un allié captif avant qu'il ne soit sacrifié par les fanatiques.
+  
+  **Déroulement :**
+  
+  -   Les joueurs reçoivent un message secret d'un allié captif leur demandant de l'aide.
+  -   Ils doivent infiltrer une zone sécurisée du labyrinthe pour libérer l'allié.
+  -   Des énigmes et des défis doivent être résolus pour désactiver les pièges et les verrous.
+  
+  **Récompense :**
+  
+  -   Un allié puissant et des informations cruciales sur les plans des fanatiques.
 
 ## en cours
 
