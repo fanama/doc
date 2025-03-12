@@ -142,6 +142,19 @@
   -   Trouver une sortie dans le labyrinthe souterrain
   -   Éviter les patrouilles et les pièges
 - Tunnels de l'oubli  
+  **Persona :**
+  
+  -   Ingénieur capturé
+  
+  **Obstacle :**
+  
+  -   Découvrir des tunnels abandonnés et dangereux
+  -   Réparer et sécuriser les tunnels pour créer de nouvelles voies d'évasion
+  -   Éviter les effondrements et les pièges
+  
+  **Récompense :**
+  
+  -   Un plan détaillé des tunnels sécurisés
 
 ## en cours
 
