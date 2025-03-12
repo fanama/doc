@@ -130,6 +130,8 @@
   - connaissances sur l'origine de la maladie
   - informations sur le livre monde
 
+## Souterrain
+
 ## en cours
 
 ## personnages non joueurs
@@ -162,5 +164,3 @@
   
   Control Points : 
   
-
-## Souterrain
