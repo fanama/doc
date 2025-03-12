@@ -191,4 +191,16 @@
   
   Control Points : 
   
-- Eldric  
+- Eldric Darkheart  
+  ### **Eldric Darkheart** - Leader des prisonniers
+  
+  **Race :** Humain **Classe :** Barbare **Alignement :** Chaotique Bon **Caractéristiques :**
+  
+  -   Force : 18
+  -   Dextérité : 14
+  -   Constitution : 16
+  -   Intelligence : 12
+  -   Sagesse : 14
+  -   Charisme : 16
+  
+  **Compétences :** Athlétisme, Intimidation, Survie **Équipement :** Hache de guerre, armure de cuir, sac à dos, rations de nourriture **Description :** Eldric est un guerrier charismatique et déterminé. Il a été capturé alors qu'il explorait les montagnes à la recherche de trésors anciens. Sa force et son courage en font un leader naturel parmi les captifs.
