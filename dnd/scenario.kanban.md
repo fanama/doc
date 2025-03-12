@@ -204,3 +204,4 @@
   -   Charisme : 16
   
   **Compétences :** Athlétisme, Intimidation, Survie **Équipement :** Hache de guerre, armure de cuir, sac à dos, rations de nourriture **Description :** Eldric est un guerrier charismatique et déterminé. Il a été capturé alors qu'il explorait les montagnes à la recherche de trésors anciens. Sa force et son courage en font un leader naturel parmi les captifs.
+- Lyra Whisperwind  
