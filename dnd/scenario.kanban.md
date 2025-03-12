@@ -217,3 +217,4 @@
   -   Charisme : 16
   
   **Compétences :** Arcane, Histoire, Perception **Équipement :** Grimoire de sorts, bâton magique, sac à dos, parchemins anciens **Description :** Lyra est une érudite passionnée par les mystères anciens. Elle a été capturée alors qu'elle étudiait des ruines souterraines. Sa connaissance des arts occultes et des langues anciennes est précieuse pour découvrir les secrets des êtres des profondeurs.
+- Gwendoline  
