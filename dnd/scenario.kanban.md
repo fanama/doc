@@ -132,6 +132,15 @@
 
 ## Souterrain
 - Evasion  
+  **Persona :**
+  
+  -   Prisonnier capturé
+  
+  **Obstacle :**
+  
+  -   Échapper aux fanatiques pendant la nuit
+  -   Trouver une sortie dans le labyrinthe souterrain
+  -   Éviter les patrouilles et les pièges
 
 ## en cours
 
