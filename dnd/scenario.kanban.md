@@ -205,3 +205,15 @@
   
   **Compétences :** Athlétisme, Intimidation, Survie **Équipement :** Hache de guerre, armure de cuir, sac à dos, rations de nourriture **Description :** Eldric est un guerrier charismatique et déterminé. Il a été capturé alors qu'il explorait les montagnes à la recherche de trésors anciens. Sa force et son courage en font un leader naturel parmi les captifs.
 - Lyra Whisperwind  
+  ### **Lyra Whisperwind** - Chercheuse capturée
+  
+  **Race :** Elfe **Classe :** Sorcière **Alignement :** Neutre Bon **Caractéristiques :**
+  
+  -   Force : 10
+  -   Dextérité : 16
+  -   Constitution : 12
+  -   Intelligence : 18
+  -   Sagesse : 14
+  -   Charisme : 16
+  
+  **Compétences :** Arcane, Histoire, Perception **Équipement :** Grimoire de sorts, bâton magique, sac à dos, parchemins anciens **Description :** Lyra est une érudite passionnée par les mystères anciens. Elle a été capturée alors qu'elle étudiait des ruines souterraines. Sa connaissance des arts occultes et des langues anciennes est précieuse pour découvrir les secrets des êtres des profondeurs.
