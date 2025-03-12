@@ -217,4 +217,16 @@
   -   Charisme : 16
   
   **Compétences :** Arcane, Histoire, Perception **Équipement :** Grimoire de sorts, bâton magique, sac à dos, parchemins anciens **Description :** Lyra est une érudite passionnée par les mystères anciens. Elle a été capturée alors qu'elle étudiait des ruines souterraines. Sa connaissance des arts occultes et des langues anciennes est précieuse pour découvrir les secrets des êtres des profondeurs.
-- Gwendoline  
+- Gwendoline Silverheart  
+  ### **Gwendolyn Silverheart** - Captive avec des compétences en diplomatie
+  
+  **Race :** Humaine **Classe :** Barde **Alignement :** Neutre Bon **Caractéristiques :**
+  
+  -   Force : 10
+  -   Dextérité : 14
+  -   Constitution : 12
+  -   Intelligence : 14
+  -   Sagesse : 12
+  -   Charisme : 18
+  
+  **Compétences :** Persuasion, Représentation, Histoire **Équipement :** Luth, dagues, armure de cuir, sac à dos, parchemins de chansons **Description :** Gwendolyn est une musicienne talentueuse et une diplomate accomplie. Elle a été capturée alors qu'elle voyageait pour partager ses chansons et ses histoires. Ses compétences en persuasion et en représentation sont cruciales pour former des alliances.
