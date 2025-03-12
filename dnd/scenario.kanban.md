@@ -141,6 +141,7 @@
   -   Échapper aux fanatiques pendant la nuit
   -   Trouver une sortie dans le labyrinthe souterrain
   -   Éviter les patrouilles et les pièges
+- Tunnels de l'oubli  
 
 ## en cours
 
