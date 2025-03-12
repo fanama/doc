@@ -8,5 +8,5 @@ Ce sont en fait des êtres venus "des profondeurs". Ils cherchent à regagner le
 Ils seront forcés à creuser pendant plusieurs mois.
 Le leader et sa fille sont immortels. Ils cherchent juste à regagner leur souterrain. 
 Avec le temps ils commencent à capturer des gens de l'exterieur, une fois qu'ils sont trop vieux ou trop faible ils les remplacent.
-Tant que la captivité dure les poinsts de contrôle diminuent
+Tant que la captivité dure les poinsts de contrôle diminuent à cause des traveaux à effectuer chaque jour
 
