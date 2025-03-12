@@ -143,7 +143,7 @@
   
   **récompense**
   
-  - temps de répis
+  - temps de répis (annule les pertes de points de contrôle)
 - Tunnels de l'oubli  
   **Persona :**
   
