@@ -2057,43 +2057,27 @@ Yohann s’adresse au public en créole.
 Réma traduit.
 
 YOHANN. “Poukisa an choizi mòso-lasa ?
-
 An pa sac.
-
 Sèten sé padavwa dépi toupiti sé toujou li an tann an zòrèy an mwen.
-
 Pap’an mwen té enmé lopéra.
-
 Apa népòt lopéra non \! Lopéra italyen \!
 
 RÉMA. “Pourquoi j’ai choisi ce morceau ?
-
 Je ne sais pas.
-
 Sans doute parce que c’est celui que j’ai le plus entendu lorsque j’étais enfant.
-
 Mon père aimait l’opéra.
-
 Surtout l’opéra italien.
 
 YOHANN. Apapoudi papa té granjandmoun.
-
 I té mason kon mwen menm.
-
 I konmansé travay i té ni douzan, i pèd fanmi a-y toujenn, i mayé bonnè, i fè kat timoun… piti a piti… il mété ka jouwé jé é bwè wonm… lantoupriz i té ni koulé… é i konmansé dédou… kawvléfè \! i fè sa i té pé…
-
 Apa sa ou té pé irisé on bon papa.
-
 É magrésa… i té enmé lopéra toubònman… Ay sav poukisa \!”
 
 RÉMA. Pourtant ce n’était pas à proprement parler un esthète. 
-
 Il était maçon comme moi. 
-
 Il a commencé à travailler à 12 ans, a perdu ses parents jeune, s’est marié trop tôt, quatre enfants… et puis bon… dettes de jeu, alcoolisme, faillite, chômage, dépression… enfin il a fait ce qu’il a pu…
-
 Pas vraiment le père idéal, disons.
-
 Et pourtant… il adorait l’opéra… Allez savoir \!”
 
 Alexandra arrive à son tour.
@@ -2101,21 +2085,16 @@ Alexandra arrive à son tour.
 ALEXANDRA. Nous en étions à notre dixième séance quand Yohann s'est enfin décidé à parler. Jusqu'ici nous n'avancions pas. J'en étais presque à me dire que cela ne servait à rien, cette thérapie. De toute façon je ne voulais plus d'enfants. Alors je me suis souvenue d'une discussion que nous avions eue sur son rapport à la langue. Yohann, quand il se met en colère ou quand il prend le risque d'être sentimental, passe instinctivement au créole. Je lui ai proposé de faire la même chose à notre prochaine séance. Je servirais d'interprète. C'est comme ça que pour la première fois j'ai entendu Yohann parler de son père.
 
 YOHANN. “Toulésanmdi sété, nétwayé kaz pwòp pwòp pwòp \!
-
 I téka lévé mwen o tibrin. Lèwgadé, i téka mèt dé gwo mòso lawfimé griyé adan on pwèlafri, aprésa i téka kasé on bwèt zé, é vidé tout anlè lawfimé-la.
 
 RÉMA. Le samedi à la maison c’était le jour du grand ménage \!
-
 Il me réveillait à l’aurore et faisait griller dans une poêle deux gros morceaux de lard sur lesquels il cassait une boîte d’œufs entière.
 
 YOHANN. Lèwvwè nou té fin déjiné, i téka bat men a-y pou tout moun té rantré o konba.
-
 Lèwgadé nou téka woté adan sé plaka-la tout kalté zéfé kon sèw piyè, balyé, bròs é pwodui pou pésa nétwayé.
 
 RÉMA. A la fin du déjeuner il frappait dans ses mains pour lancer
-
 le début des hostilités.
-
 Nous sortions du placard tout un attirail d'objets d'entretien et de produits ménagers.
 
 YOHANN. Aprésa i téka mèt asi vyé toundis-la, menm ti mòso a Monteverdi-la, yo kriyé: le Lamento della Ninfa. Epi, avè gwo vwa a-y, i téka fè répondè ba chanté-la, toupannan i téka kiré sé plak a kuizinyè-la.
@@ -2126,90 +2105,59 @@ YOHANN. I èspliké mwen sa i téka touvé an mòso-lasa. Fò-w té vwe-y blagé
 
 RÉMA. Il m'avait expliqué que ce qu'il aimait dans ce morceau – un madrigal avait-il précisé, fier de lui \- c'était que la forme était une émanation de la musique populaire italienne du XV siècle.
 
-YOHANN. An téka rèsté estèbekwè douvan tousa i té konnèt. Ankijan ité aprann tousa? Es sé pannan lannuit, toupannan i téka féré chyen. Mwenmenm pa sav\!
-
+YOHANN. An téka rèsté estèbekwè douvan tousa i té konnèt. Ankijan ité aprann tousa? 
+Es sé pannan lannuit, toupannan i téka féré chyen. Mwenmenm pa sav\!
 An pa janmen ay gadé si tousa té vré ou pavré.
-
 An téka rété bèkèkè ka gadé-y, i téka f è mwen ri.
 
 RÉMA. Je m'étonnais de cette culture enfouie, sans doute alimentée dans le secret de ses nuits trop courtes.
-
 Je n'ai même jamais vérifié la véracité de ses affirmations.
-
 Je le regardais, attendri, il me faisait rire.
 
 YOHANN. Ko a-y té mastif, men fout lès \! alé konprann\!
-
-Dé gran men, griji afos fouré yo an siman épi lacho, téka woupran belté toupannan yo téka pasé chifon p o u nétwayé.
-
+Dé gran men, griji afos fouré yo an siman épi lacho, téka woupran belté toupannan yo téka pasé chifon pou nétwayé.
 Koté golbo a-y téka disparèt, avwa dékatman a-y ou té ké pé kwè sé on moun aristokrat.
-
 Ou té ké pé kwè sé on moun ka viv adoumanman.
 
 RÉMA. Son corps massif s'animait avec une étrange délicatesse.
-
 Ses mains d'ogre, boursouflées par le ciment et la chaux, déployaient une grâce nouvelle dans les mouvements d'éponge.
-
 Sa brutalité s'évanouissait pour laisser place à une expression presque aristocratique.
-
 On aurait pu le croire heureux.
 
 YOHANN. I toujou téka di mwen non :
-
 Dépi tanto an paka sipòté lanmè.
-
 Lèwvwè ou pépa sipòté lanmè sa ja rèd.
-
 Men lèwvwè ou vwè o u ka rété asi on lilèt, pa menm palé...
 
 RÉMA. Et quand l a maison était propre, en général il partait à la pêche.
-
 Je le suppliais chaque fois de m'emmener.
-
 Ce qu'il refusait systématiquement: j'ai le mal de mer depuis toujours. 
-
 Le mal de mer en soi ce n'est déjà pas facile. Alors quand on habite sur une île...
 
-YOHANN. Jou-la ou vwè an trapé dis lanné-la, magré tout pè i té pè, i té dakò menné mwen avè-y.
-
+YOHANN. Jou-la ou vwè an trapé dis lanné-la, magré tout pè i té pè, 
+i té dakò menné mwen avè-y.
 Nou pati pou grandlo, an doubout dwèt pikèt an tét a kannot-la, an ka mèt sé lanm-la odéfi épi an ka hélé kyè kontan jik a lorizon.
-
 Tout lidé an mwen an sé on kapitenn pirat doubout asi on galion vwal o van.
-
 Men isifi papa té jété lank, an konmansé santi boyo an mwen ka tod.
 
 RÉMA. Le jour de mes 10 ans, en dépit de son appréhension, il accepta
-
 de m’emmener.
-
 En direction du large, dressé à l'avant du bateau, je défiais les vagues hurlant ma joie contre l'horizon.
-
 Je me prenais pour le capitaine d'un galion pirate.
-
 Mais une fois l'ancre jetée j'ai commencé à me sentir mal.
-
 Mon père m'a fusillé du regard.
 
 YOHANN. Papa gadé mweeeen \!
-
 An penn an noz di-y: « Papa an vlé woutouné akaz. »
-
 Lèwgadé i pran on bidon vid, i voyé-y an lanmè-la é i réponn mwen: « Ou k é najé pou-w woutouné. »
-
 An konprann sé on ti jé i téka fè.
-
 Men lèwvwe i fouté lapat asi mwen pou-y voyé mwen an dlo-la, an konprann i patéka jouwé.
-
 An konmansé najé, toupannan an ka najé an ka pléré gwodlo, anmenmditan an ka séré bidon-la anba bra an mwen pou mwen pa koulé.
 
 RÉMA. J'osais à peine balbutier: « Papa, j'ai besoin de rentrer.»
-
 Il a attrapé un bidon vide, l'a jeté par-dessus bord et m'a répondu froidement: « Alors tu rentres à la nage.»
-
 J'ai d'abord cru qu'il plaisantait.
-
 Mais quand il m'a saisi par le bras pour me foutre à la flotte, il n'y a plus eu de place pour le doute.
-
 Je me suis mis à nager vers le rivage en pleurant, serrant avec force le bidon pour ne pas couler.
 
 YOHANN. Alòs adan o n voukoum a kyim a lanmè-la é dlo a zyé an mwen , toupannan an téka bat dé janm an mwen tibilap tibilap an dlo-la, an répété an tét an mwen ti mòso mizik a Monteverdi-la, konsi pou té fè papa woumèt titak dousin an kò a-y, konsi pou mwen menm dakò épi mwen, toupannan an ka valé yonndé gojé dlo, on nonm ka kouté mizik-lasa pépa pani bonté an kyè a-y.”
