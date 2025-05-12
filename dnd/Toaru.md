@@ -23,9 +23,3 @@ Les joueurs incarnent des étudiants ou des membres de factions diverses à Acad
 - **Magiciens :** Utilisateurs de magie traditionnelle, souvent membres de l'Église.
 - **AIMS :** Agents de sécurité d'Academy City, chargés de maintenir l'ordre.
 - **Factions Renégates :** Groupes de magiciens ou d'espers qui opèrent en dehors des lois de la ville.
-
-### Système de Jeu :
-Vous pouvez utiliser un système de jeu comme "Dungeons & Dragons" ou "GURPS" et l'adapter à l'univers de "Toaru". Les règles peuvent inclure des mécanismes pour gérer les pouvoirs des espers et la magie, ainsi que des systèmes de combat et d'intrigue.
-
-### Conclusion :
-Ce cadre offre une base solide pour un JDR immersif dans l'univers de "Toaru Majutsu no Index". Les joueurs pourront explorer les mystères de la ville, interagir avec des personnages emblématiques, et naviguer dans les complexités de la coexistence entre science et magie.
