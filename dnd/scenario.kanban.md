@@ -194,6 +194,7 @@
   **Récompense :**
   
   -   Un allié puissant et des informations cruciales sur les plans des fanatiques.
+- Archives Néant : Quête 3  
 
 ## en cours
 
