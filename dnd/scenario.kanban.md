@@ -129,6 +129,7 @@
   ## conséquences
   - connaissances sur l'origine de la maladie
   - informations sur le livre monde
+- Archives fantomes  
 
 ## Souterrain
 - Evasion  
