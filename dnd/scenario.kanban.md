@@ -53,6 +53,7 @@
   - you become a member of the guild
   - you get a guild coat
   - weekly pay (one mission per week)
+- Archives Fantomes  
 
 ## Forêt
 - Red Hood  
