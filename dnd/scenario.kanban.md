@@ -77,7 +77,16 @@
   ## reward
   - some golds
   - some llots
-- Archives Fantomes : Quêtes 2  
+- Archives Fantomes Quête 2 : Le Seuil de la Zone 23  
+  ### Quête 2 : Le Seuil de la Zone 23 (Forêt)
+  
+  **Description :** Le signal mène à une forêt artificielle dense utilisée pour les tests météorologiques, où la technologie semble se détraquer.
+  
+  -   **Objectif :** Traverser la forêt en suivant les distorsions du champ AIM (énergie d'Esper) pour trouver la trappe de maintenance cachée.
+      
+  -   **Obstacle :** Une embuscade de **Skill-Out** (délinquants sans pouvoirs) qui utilisent des brouilleurs de signaux pour piéger les voyageurs.
+      
+  -   **Récompense :** **Amplificateur de Capacité Temporaire** (Un objet consomable qui augmente votre puissance de Niveau Esper pour le prochain combat)
 
 ## ville
 - Taverne 1  
