@@ -129,7 +129,16 @@
   ## conséquences
   - connaissances sur l'origine de la maladie
   - informations sur le livre monde
-- Archives fantomes  
+- Archives fantomes : Quête 1 : Le Signal du District 7 (Ville)  
+  ### Quête 1 : Le Signal du District 7 (Ville)
+  
+  **Description :** Pour trouver la bibliothèque, vous devez d'abord localiser sa fréquence unique qui "glisse" à travers le réseau Wi-Fi de la Cité Académique.
+  
+  -   **Objectif :** Pirater trois terminaux de données publics pour trianguler le signal de la "Librairie Fantôme".
+      
+  -   **Obstacle :** Une unité de drones de sécurité automatisés et un pare-feu de type "Anti-Skill" qui tente de tracer votre position.
+      
+  -   **Récompense :** **Clé de Décryptage Magnétique** (Objet de quête permettant d'ouvrir des portes électroniques).
 
 ## Souterrain
 - Evasion  
