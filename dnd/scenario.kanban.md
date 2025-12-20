@@ -194,7 +194,7 @@
   **Récompense :**
   
   -   Un allié puissant et des informations cruciales sur les plans des fanatiques.
-- Archives Néant : Quête 3  
+- Archives Fantômes : Quête 3  
   ### Quête 3 : Les Archives du Néant (Souterrain)
   
   **Description :** Sous la terre, dans les vieux tunnels de service oubliés du District 10, se trouve enfin la bibliothèque de données interdites.
