@@ -54,18 +54,19 @@
   - you get a guild coat
   - weekly pay (one mission per week)
 - Archives Fantomes  
+  ## Description
+  
+  Vous commencez dans les rues animées du **District 7**. Des étudiants vous informent qu'une "Librairie Fantôme" apparaîtrait uniquement lorsque les ondes radio de la ville s'alignent d'une certaine manière.
+  
   ### Informations de base
   
   -   **Donneur de quête :** Un groupe de résidents du District 7 (étudiants agissant comme "Villageois").
-      
   -   **Lieu :** Cité Académique (Urbain, Forêt artificielle, Souterrains du District 10).
-      
   -   **Difficulté :** Rang B (Nécessite une gestion des champs AIM ou des connaissances en occultisme)
   
   ## **Récompense finale de la chaîne de quêtes :**
   
   -   **Titre :** _Chercheur de la Vérité de l'Académie._
-      
   -   **Objet spécial :** Un accès permanent au réseau de données "Tree Diagram" pour anticiper les mouvements ennemis.
 
 ## Forêt
