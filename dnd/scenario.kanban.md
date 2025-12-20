@@ -161,7 +161,7 @@
   
   -   **Objectif :** Pirater trois terminaux de données publics pour trianguler le signal de la "Librairie Fantôme".
       
-  -   **Obstacle :** Une unité de drones de sécurité automatisés et un pare-feu de type "Anti-Skill" qui tente de tracer votre position.
+  -   **Obstacle :** Une unité de drones de sécurité automatisés et un pare-feu de type "Anti-Skill" qui tente de tracer votre position. (Chaque fois qu'un piratage est en cours une troupe antiskill viens pour vous attaquer)
       
   -   **Récompense :** **Clé de Décryptage Magnétique** (Objet de quête permettant d'ouvrir des portes électroniques).
 
