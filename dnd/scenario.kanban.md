@@ -77,6 +77,7 @@
   ## reward
   - some golds
   - some llots
+- Archives Fantomes : Quêtes 2  
 
 ## ville
 - Taverne 1  
