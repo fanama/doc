@@ -195,6 +195,15 @@
   
   -   Un allié puissant et des informations cruciales sur les plans des fanatiques.
 - Archives Néant : Quête 3  
+  ### Quête 3 : Les Archives du Néant (Souterrain)
+  
+  **Description :** Sous la terre, dans les vieux tunnels de service oubliés du District 10, se trouve enfin la bibliothèque de données interdites.
+  
+  -   **Objectif :** Atteindre le serveur central au cœur du labyrinthe souterrain et extraire les données du "Livre Monde".
+      
+  -   **Obstacle :** Le **Gardien des Archives**, un Esper de Niveau 4 capable de manipuler les vecteurs ou les ombres, programmé pour éliminer tout intrus.
+      
+  -   **Récompense :** **Le Manuscrit des Phases** (Un "Livre Monde" contenant des secrets sur la magie et la science, augmentant définitivement vos statistiques de connaissance).
 
 ## en cours
 
